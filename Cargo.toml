@@ -1,0 +1,7 @@
+[package]
+name = "frozen-bubble-rust"
+version = "0.1.0"
+authors = ["George Marshall <george@georgemarshall.name>"]
+
+[dependencies]
+sdl2 = "0.23"
